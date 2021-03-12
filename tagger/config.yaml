@@ -1,0 +1,5 @@
+# tagger config
+train_file: "./files/en_ewt-ud-train.conllu"
+model_file: "./svm_tagger.pickle"
+crossval: True
+n_folds: 5
